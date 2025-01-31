@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunjarajkumar/DAA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunjarajkumar/DAA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -43,4 +44,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunjarajkumar/DAA/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunjarajkumar/DAA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunjarajkumar/DAA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunjarajkumar/DAA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
